@@ -1,0 +1,5 @@
+Quantum computing and AI are complementary technologies.
+AI algorithms can optimize quantum gate sequences and error correction protocols.
+In turn, quantum computers could accelerate the training of certain AI models.
+Researchers in quantum physics use machine learning to predict quantum state evolution,
+classify phases of matter, and discover new quantum algorithms.

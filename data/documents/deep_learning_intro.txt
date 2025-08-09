@@ -1,0 +1,27 @@
+Deep Learning is a subset of machine learning based on artificial neural networks with representation learning.
+
+Key concepts:
+- Neural Networks consist of layers of interconnected nodes (neurons).
+- Each neuron receives input, applies a weight and bias, and passes through an activation function.
+- Common activation functions: ReLU, Sigmoid, Tanh.
+- Deep neural networks have multiple hidden layers enabling hierarchical feature extraction.
+
+Types of Neural Networks:
+- Feedforward Neural Networks: Data moves in one direction, from input to output.
+- Convolutional Neural Networks (CNNs): Specialized for image and spatial data.
+- Recurrent Neural Networks (RNNs): Designed for sequential data like time series or language.
+- Transformers: Use attention mechanisms and are state-of-the-art for NLP tasks.
+
+Training:
+- Uses backpropagation and gradient descent to minimize loss functions.
+- Requires large amounts of labeled data and computational power.
+- Overfitting can be mitigated by dropout, regularization, and data augmentation.
+
+Applications:
+- Image recognition
+- Speech recognition
+- Natural language processing
+- Autonomous vehicles
+- Healthcare diagnostics
+
+Deep learning has revolutionized AI by enabling models to learn directly from raw data with minimal feature engineering.

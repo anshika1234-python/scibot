@@ -1,0 +1,4 @@
+In astronomy, AI assists in analyzing massive datasets from telescopes and satellites.
+Deep learning models can classify galaxies, detect exoplanets, and identify gravitational wave signals.
+By automating data processing, AI enables astronomers to focus on scientific interpretation
+rather than manual data cleaning and labeling.

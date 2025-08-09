@@ -1,0 +1,1 @@
+Machine learning allows computers to learn from data without explicit programming.

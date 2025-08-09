@@ -1,0 +1,20 @@
+Supervised Learning:
+- Uses labeled data where each input example is paired with the correct output.
+- The goal is to learn a mapping from inputs to outputs.
+- Examples include classification and regression problems.
+- Common algorithms: Linear Regression, Logistic Regression, Decision Trees, Support Vector Machines, Neural Networks.
+- Example use case: Email spam detection where emails are labeled as 'spam' or 'not spam'.
+
+Unsupervised Learning:
+- Uses unlabeled data with no explicit output labels.
+- The goal is to find hidden patterns or groupings in the data.
+- Examples include clustering and dimensionality reduction.
+- Common algorithms: K-Means Clustering, Hierarchical Clustering, Principal Component Analysis (PCA), Autoencoders.
+- Example use case: Customer segmentation based on purchasing behavior without pre-existing categories.
+
+Differences:
+- Data Requirement: Supervised requires labeled data; unsupervised does not.
+- Objective: Supervised predicts outcomes; unsupervised discovers structure.
+- Feedback: Supervised learning uses feedback from labeled data; unsupervised learns patterns without feedback.
+
+Hybrid approaches also exist, such as semi-supervised learning and self-supervised learning, combining elements of both.

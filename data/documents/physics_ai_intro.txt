@@ -1,0 +1,3 @@
+Quantum computing opens a new era in AI.
+By leveraging quantum algorithms, researchers aim to solve optimization and machine learning problems faster.
+Physicists study qubits, entanglement, and decoherence to enhance AI capabilities.

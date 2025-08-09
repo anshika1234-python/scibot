@@ -1,0 +1,50 @@
+Machine Learning (ML) is a branch of artificial intelligence that enables computers to learn from data and improve performance without being explicitly programmed.
+
+There are three main types of machine learning:
+
+1. Supervised Learning:
+In supervised learning, the algorithm learns from labeled training data, where each input comes with the correct output. The model maps inputs to desired outputs and improves over time.
+Examples: Classification (spam detection), Regression (house price prediction).
+
+2. Unsupervised Learning:
+Unsupervised learning works on unlabeled data. The algorithm finds hidden patterns or intrinsic structures in the input data.
+Examples: Clustering (customer segmentation), Dimensionality Reduction (PCA).
+
+3. Reinforcement Learning:
+In reinforcement learning, an agent learns to make decisions by performing actions and receiving feedback in the form of rewards or penalties.
+Example: Game playing AI, robotics control.
+
+Important concepts:
+- Features: Input variables used by the model.
+- Labels: The output or target variable in supervised learning.
+- Overfitting: When a model learns the training data too well, including noise, reducing its performance on new data.
+- Underfitting: When a model is too simple and cannot capture underlying patterns.
+
+Common algorithms:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forests
+- Support Vector Machines (SVM)
+- Neural Networks
+
+Evaluation Metrics:
+- Accuracy
+- Precision, Recall, F1-Score
+- Mean Squared Error (MSE)
+- ROC-AUC
+
+Data preprocessing steps:
+- Data cleaning (handling missing values)
+- Normalization/Standardization
+- Feature selection/engineering
+
+ML Workflow:
+1. Data collection
+2. Data preprocessing
+3. Model selection
+4. Training
+5. Evaluation
+6. Deployment
+
+Machine learning plays a crucial role in many applications such as image recognition, natural language processing, recommendation systems, and autonomous vehicles.
